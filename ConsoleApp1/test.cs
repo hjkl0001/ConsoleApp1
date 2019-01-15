@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         public static string getStr()
         {
-            return "Hello World";
+            return "Hello World!";
         }
     }
 }
